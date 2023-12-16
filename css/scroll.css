@@ -8,4 +8,5 @@
 
 ::-webkit-scrollbar-thumb{
     background:#84cc16;
+    border-radius: 20px;
 }
